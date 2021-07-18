@@ -8,3 +8,14 @@ main {
     flex: 1 0 auto;
 }
 
+a.btn.green.accent-4,
+a.btn.red  {
+    height: 30px;
+    line-height: 30px;
+    margin: 2px;
+} 
+
+a.btn.red {
+    padding-left: 7px;
+    padding-right: 7px;
+}
